@@ -1,0 +1,24 @@
+.Nav{
+    display: flex;
+    align-items: center;
+    position: fixed;
+    width:97%;
+    top: 0;
+    padding: 20px;
+     -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+    gap: 92%;
+     z-index: 1;
+     -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+}
+.nav_logo{
+width: 80px;
+object-fit: contain;
+position: relative;
+}
+.nav_avtar{
+    width: 30px;
+    object-fit: contain;
+    right: 20px;
+}
